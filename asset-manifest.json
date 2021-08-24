@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/Human-Body-Segmentation/static/css/main.a617e044.chunk.css",
+    "main.js": "/Human-Body-Segmentation/static/js/main.371bd8fc.chunk.js",
+    "main.js.map": "/Human-Body-Segmentation/static/js/main.371bd8fc.chunk.js.map",
+    "runtime-main.js": "/Human-Body-Segmentation/static/js/runtime-main.9ecda89e.js",
+    "runtime-main.js.map": "/Human-Body-Segmentation/static/js/runtime-main.9ecda89e.js.map",
+    "static/js/2.9caaa046.chunk.js": "/Human-Body-Segmentation/static/js/2.9caaa046.chunk.js",
+    "static/js/2.9caaa046.chunk.js.map": "/Human-Body-Segmentation/static/js/2.9caaa046.chunk.js.map",
+    "static/js/3.4b0a5b0e.chunk.js": "/Human-Body-Segmentation/static/js/3.4b0a5b0e.chunk.js",
+    "static/js/3.4b0a5b0e.chunk.js.map": "/Human-Body-Segmentation/static/js/3.4b0a5b0e.chunk.js.map",
+    "index.html": "/Human-Body-Segmentation/index.html",
+    "static/css/main.a617e044.chunk.css.map": "/Human-Body-Segmentation/static/css/main.a617e044.chunk.css.map",
+    "static/js/2.9caaa046.chunk.js.LICENSE.txt": "/Human-Body-Segmentation/static/js/2.9caaa046.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.9ecda89e.js",
+    "static/js/2.9caaa046.chunk.js",
+    "static/css/main.a617e044.chunk.css",
+    "static/js/main.371bd8fc.chunk.js"
+  ]
+}
